@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![GLPI Logo](https://raw.githubusercontent.com/glpi-project/glpi/main/pics/logos/logo-GLPI-250-black.png)
 
 ![GLPI CI](https://github.com/glpi-project/glpi/workflows/GLPI%20CI/badge.svg?branch=9.5%2Fbugfixes)
@@ -151,3 +152,7 @@ There is a GLPI version typical lifecycle:
  * Several months after major version released, a new major version (9.4) is released.
    Previous major versions become unsupported, please update to the new major version.
    Obviously, we provide support for the migration tools too!
+=======
+# TCA
+Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing for THE COLLEGE ACADEMY.
+>>>>>>> 3d5d018863f2330fc890b04bc299f861c144955e
